@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NavCal</string>
+
+    <string name="total">Total Mulch Needed for Project</string>
+    <string name="totalTank">Total Tank Loads Needed for Project</string>
+    <string name="tankSize">Tank Size</string>
+    <string name="mulchMixing">Mulch Mixing Rate</string>
+
+
+    <string name="gal">gal</string>
+    <string name="lbsGal">lbs/100 gal</string>
+    <string name="sqFt">sq. ft</string>
+    <string name="lbAcre">lbs/acre</string>
+    <string name="lbsBag">lbs</string>
+    <string name="projectName">Enter Project Name</string>
+    <string name="projectSize">Total Size of Project</string>
+    <string name="mulchRate">Target Mulch Application Rate</string>
+    <string name="weightBag">Weight of Mulch(per bag)</string>
+    <string name="home">Home prototype</string>
+    <string name="darkMode">Dark Mode</string>
+    <string name="CalcHelp">Calculations will automatically be saved into history. Project name will not be displayed in the output, but will be displayed in the history output.</string>
+    <string name="DashHelp">OpenWeatherMap is the API source of the weather updates. The weather output displays a minute by minute forecast.</string>
+    <string name="HistoryHelp">There is no limit to the amount of saved calculations. The saved data can be shared through email, text, and Google Drive. History can be deleted by clearing app cache in the phone memory settings</string>
+
+    <string name="erosion">Erosion Control Toolbox</string>
+
+</resources>
